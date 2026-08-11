@@ -53,7 +53,7 @@ The repository contains implementations developed through laboratory exercises, 
 ## Project Structure
 
 ```text
-cpp-oop-lab-portfolio/
+OOPS_Lab_Work/
 │
 ├── Lab Exercise 2/
 │   ├── Ex1.c
