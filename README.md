@@ -55,29 +55,29 @@ The repository contains implementations developed through laboratory exercises, 
 ```text
 OOPS_Lab_Work/
 │
-├── Lab Exercise 2/
+├── Lab_Exercise2/
 │   ├── Ex1.c
 │   ├── Ex2.c
 │   ├── Ex3.c
 │   └── ...
 │
-├── Lab Exercise 3/
+├── Lab_Exercise3/
 │   ├── Ex1.c
 │   ├── Ex2.c
 │   └── ...
 │
-├── Lab Exercise 4/
+├── Lab_Exercise4/
 │   ├── Ex1.cpp
 │   ├── Ex2.cpp
 │   └── ...
 │
-├── Lab Exercise 5/
-├── Lab Exercise 6/
-├── Lab Exercise 7/
-├── Lab Exercise 8/
-├── Lab Exercise 9/
-├── Lab Exercise 10/
-├── Lab Exercise 11/
+├── Lab_Exercise5/
+├── Lab_Exercise6/
+├── Lab_Exercise7/
+├── Lab_Exercise8/
+├── Lab_Exercise9/
+├── Lab_Exercise10/
+├── Lab_Exercise11/
 └── README.md
 ```
 
