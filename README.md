@@ -184,19 +184,19 @@ File Handling
 ---
 
 ## GitHub Topics
-c
-cpp
-cplusplus
-object-oriented-programming
-oop
-cpp-programming
-data-structures
-pointers
-dynamic-memory
-operator-overloading
-inheritance
-polymorphism
-exception-handling
-file-handling
+* c
+* cpp
+* cplusplus
+* object-oriented-programming
+* oop
+* cpp-programming
+* data-structures
+* pointers
+* dynamic-memory
+* operator-overloading
+* inheritance
+* polymorphism
+* exception-handling
+* file-handling
 
 ---
